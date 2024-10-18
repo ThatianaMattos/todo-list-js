@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1> Minha Lista de Tarefas</h1>
+    <div id="input-container">
+        <input type="text" id="new-task" placeholder="Adicione uma nova tarefa">
+        <button id="add-task-btn">Adicionar Tarefa</button>
+    </div>
+
+    <div id="filters">
+        <button id="filter-all">Todas</button>
+        <button id="filter-pending">Pendentes</button>
+        <button id="filter-completed">Concluídas</button>
+    </div>
+
+    <p id="task-counter">Pendentes: 0 | Concluídas: 0</p>
+
+    <ul id="task-list"></ul>
+
+    <button id="clear-completed">Limpar Concluídas</button>
+
+    <script src="script.js"></script>
+
+
+</body>
+
+</html>

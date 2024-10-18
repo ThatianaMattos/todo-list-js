@@ -1,0 +1,1 @@
+const newTaskInput = document.getElementById('New-task');
