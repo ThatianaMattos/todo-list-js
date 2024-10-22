@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um projeto simples de To-Do List desenvolvido em HTML, CSS e JavaScript puro, sem o  uso de frameworks. O projeto permite que o usuário adicione , edite e exclua tarefas, além de marcá-las como concluídas. As tarefas são salvas no Local Storage, permitindo que elas permaneçam salvas ao recarregar a página.
+Este é um projeto simples de To-Do List desenvolvido em HTML, CSS e JavaScript puro, sem o uso de frameworks. O projeto permite que o usuário adicione , edite e exclua tarefas, além de marcá-las como concluídas. As tarefas são salvas no Local Storage, permitindo que elas permaneçam salvas ao recarregar a página.
 
 ## Funcionalidades
 
